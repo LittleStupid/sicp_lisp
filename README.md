@@ -1,4 +1,1 @@
-# sicp_scheme
-sicp with scheme
-
-not done: 1.10
+not done: 1.10, 1.12, 1.13
